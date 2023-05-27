@@ -1,2 +1,2 @@
 # AspCoreMVC__CoreAPI
-N Tier Architecture,Caching,Repository Design Pattern,AutoMapper,Filters.Modules,Fluent Validation,Exception,UnitOfWork,SeedData,Services
+N Tier Architecture,Caching,Repository Design Pattern,AutoMapper,Filters,AutoFac,Fluent Validation,UnitOfWork,Exception,SeedData,Services
